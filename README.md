@@ -1,3 +1,6 @@
+# **Run the jupyter notebook for easy implementation of classical stitching approach
+
+#**Deep Learning based approach for stitching**
 # **Command to Stitch Images**
 
 1. Open `wrapper.py`  
@@ -26,3 +29,4 @@
 
 **Some Results**
 ![image](https://github.com/user-attachments/assets/fc50082e-f1fc-432b-bbb2-671a4428f566)
+![image](https://github.com/user-attachments/assets/72891bf3-b2d6-4035-a726-9ff0d03aceda)
