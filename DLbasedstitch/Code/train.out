@@ -1,0 +1,318 @@
+the path
+print ho raha hai /home/hsdhillon/turing_cluster/Computer_Vision/YourDirectoryID_p1/Phase2/Code
+Lenght of Val 1000
+Number of Epochs Training will run for 100
+Factor of reduction in training data is 1.0
+Mini Batch Size 64
+Number of Training Images 20000
+Using device:  cuda
+New model initialized....
+Epoch number:  0
+
+../Data/Checkpoints/0model.ckpt Model Saved...
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  1
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  2
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  3
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  4
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  5
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  6
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  7
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  8
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  9
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  10
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  11
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  12
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  13
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  14
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  15
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  16
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  17
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  18
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  19
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  20
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  21
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  22
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  23
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  24
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  25
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  26
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  27
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  28
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  29
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  30
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  31
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  32
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  33
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  34
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  35
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  36
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  37
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  38
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  39
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  40
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  41
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  42
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  43
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  44
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  45
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  46
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  47
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  48
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  49
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  50
+
+../Data/Checkpoints/50model.ckpt Model Saved...
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  51
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  52
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  53
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  54
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  55
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  56
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  57
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  58
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  59
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  60
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  61
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  62
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  63
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  64
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  65
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  66
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  67
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  68
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  69
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  70
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  71
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  72
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  73
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  74
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  75
+Allocated: 167.61 MB
+Cached: 3906.00 MB
+Free GPU memory: 19848.25 MB
+Epoch number:  76
