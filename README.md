@@ -1,4 +1,4 @@
-# **Run the jupyter notebook for easy implementation of classical stitching approach
+# **Run the jupyter notebook for easy implementation of classical stitching approach**
 
 #**Deep Learning based approach for stitching**
 # **Command to Stitch Images**
